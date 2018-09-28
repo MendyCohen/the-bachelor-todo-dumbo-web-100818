@@ -51,7 +51,6 @@ end
 #   end
 #   #ages.each {|age| average_age += age}
 #   #average_age / ages.length
-#   #end.first
 #   (age / num_of_con.to_f).round
 # end
 
